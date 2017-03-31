@@ -1,2 +1,2 @@
 # RadarServer
-A program to collect data from RadarClient nodes for the purpose of tracking moving in a 2-dimensional space.
+A program to collect data from RadarClient nodes for the purpose of tracking moving objects in a 2-dimensional space.
